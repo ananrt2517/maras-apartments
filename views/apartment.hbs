@@ -1,0 +1,81 @@
+<link rel="stylesheet" href="/css/gallery.css">
+<link rel="stylesheet" href="/css/apartment.css">
+
+<div class="container">
+    <div class="box-left">
+        <ul class="slides">
+            {{#each apartment_images}}
+            <input type="radio" name="radio-btn" id="{{id}}" checked />
+            <li class="slide-container">
+                <div class="slide">
+                    <div class="nav nav-arrows">
+                        <label for="{{prev}}" class="prev">&#x2039;</label>
+                        <label for="{{next}}" class="next">&#x203a;</label>
+                    </div>
+                    <div class="img-after"></div>
+                    <img src="/images/{{img}}" />
+                </div>
+
+            </li>
+            {{/each}}
+        </ul>
+    </div>
+    <div class="box-right">
+        {{#if serbian}}
+        <div class="title">Apartman sadrži</div>
+        {{else}}
+        <div class="title">Apartment contains</div>
+        {{/if}}
+
+        <hr>
+        {{#each apartment_content}}
+        <div class="apartment-text">
+            <i class="fa fa-arrow-right"></i>
+            <div style="text-align: left;">
+                {{this}}
+            </div>
+        </div>
+        {{/each}}
+        <hr>
+        <div class="icons">
+            {{#each apartment_icons}}
+            <div class="apartment-icon">
+                <i class="fas fa-{{icon}}"></i>
+                {{text}}
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="apartment-info">
+
+        {{#if serbian}}
+        <div class="title">{{apartment_name}} Apartman</div>
+        {{else}}
+        <div class="title">{{apartment_name}} Apartment</div>
+        {{/if}}
+        <p>{{apartment_capasity}}</p>
+    </div>
+    <div class="big-icons">
+        {{#each apartment_cards}}
+        <div class="icon-card">
+            <div class="card-icon">
+                <i class="{{icon}}"></i>
+            </div>
+            <div class="text-container">
+                <div class="title">
+                    {{title}}
+                </div>
+                <hr>
+                {{#each text}}
+                <div class="text">{{this}}</div>
+                {{/each}}
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>
+<div class="cenovnik"><img src="/images/cenovnik.jpg" alt=""></div>
+<div class="mapa">{{{ apartment_mapa }}}</div>

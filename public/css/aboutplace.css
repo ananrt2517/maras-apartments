@@ -1,0 +1,110 @@
+.single-card {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  max-width: 350px;
+  height: 285px;
+  position: relative;
+}
+.program-card-container {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.program-card-container .single-card img {
+  border-radius: 40px;
+  height: 100%;
+  width: 100%;
+  transition: all 0.6s ease-in-out;
+  /* -webkit-filter: brightness(100%); */
+}
+.program-card-container .single-card:hover img {
+  webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+  filter: blur(14px);
+  cursor: pointer;
+}
+.single-card:hover .card-text {
+  visibility: visible;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.single-card .card-text {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  justify-content: center;
+  transition: all 0.6s ease-in-out;
+}
+.card-text p {
+  z-index: 10;
+  /* font-family: 'Carolina', arial; */
+  font-size: 16px;
+  color: #ffffff;
+}
+.numbers b {
+  /* color: red; */
+}
+p {
+  font-size: 23px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 10px;
+  margin-inline-end: 25px;
+  font-weight: bold;
+}
+
+.card-title {
+  font-family: Montserrat;
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 1220px) {
+  .single-card {
+    width: 40%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .single-card {
+    width: 70%;
+    height: 250px;
+  }
+}
+
+.section-info{
+    margin: 30px 10px 70px 10px;
+    box-shadow: 0px 0px 26px 0px rgb(198, 198, 201);
+}
+.section-info .title {
+  padding: 30px 0;
+  font-size: 20px;
+  text-align: center;
+}
+.helpful-info {
+    display: flex;
+    padding: 0 10px;  
+  }
+.helpful-info .numbers {
+  width: 33%;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #59a2cf;
+}
+
+@media only screen and (max-width: 768px) {
+    .helpful-info{
+        flex-direction: column;
+    }
+    .helpful-info .numbers{
+        width: 100%!important;
+    }
+  }

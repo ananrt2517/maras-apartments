@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="/css/galleryPage.css">
+{{> banner}}
+
+
+<div class="container">
+	
+	<div class="feature">
+		<figure class="featured-item image-holder r-3-2 transition"></figure>
+	</div>
+	
+	<div class="gallery-wrapper">
+		<div class="gallery">
+			{{#each images}}
+				<div class="item-wrapper">
+					<figure class="gallery-item image-holder r-3-2 active transition"></figure>
+				</div>
+			{{/each}}
+				
+		</div>
+	</div>
+	
+	<div class="controls">
+		<button class="move-btn left">&larr;</button>
+		<button class="move-btn right">&rarr;</button>
+	</div>
+	
+</div>
+<script src="/js/galleryPage.js"></script>

@@ -1,0 +1,125 @@
+.container {
+  flex-direction: column;
+  display: flex;
+}
+
+.container .box-left {
+  width: 100%;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 12px -2px lightgrey;
+}
+.container .box-right {
+  background-color: #212529;
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+}
+
+.container .box-right .title {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+.container .box-right .apartment-text {
+  padding: 10px 0;
+}
+.container .box-right .apartment-text i {
+  margin-right: 10px;
+}
+.container .box-right i {
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+.container .box-right .icons {
+  display: flex;
+  padding: 30px 0;
+  justify-content: space-evenly;
+}
+.container .box-right .icons .apartment-icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .box-right .icons .apartment-icon i {
+  margin-bottom: 10px;
+}
+
+.big-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.big-icons .icon-card {
+  margin: 10px;
+  max-width: 400px;
+}
+.big-icons .icon-card .card-icon {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  align-items: center;
+  background-color: #212529;
+}
+.big-icons .icon-card .card-icon i {
+  font-size: 100px;
+  color: #59a2cf;
+}
+.big-icons .icon-card .title {
+  font-size: 1.4em;
+  padding: 10px 0;
+}
+.big-icons .icon-card .text {
+  padding: 10px 0;
+}
+.big-icons .icon-card .text-container {
+  border: 1px solid #d3d3d3;
+  padding: 20px;
+  min-height: 565px;
+}
+.apartment-info .title {
+  font-family: 'Carolina', arial;
+  font-size: 52px;
+}
+.apartment-info {
+  padding: 50px;
+}
+.apartment-info p{
+  font-size: 19px;
+}
+.container .box-right .apartment-text {
+  display: flex;
+  align-items: center;
+}
+.cenovnik img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .container .icons {
+    flex-direction: column;
+  }
+  .icons .apartment-icon {
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .container .box-left {
+    height: 40vh;
+  }
+}
+
+@media only screen and (max-width: 855px) {
+  .big-icons .icon-card .text-container {
+    min-height: auto;
+  }
+}
+.mapa{
+  width: 100%;
+}

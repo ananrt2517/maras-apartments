@@ -1,0 +1,76 @@
+<link rel="stylesheet" href="/css/contact.css">
+{{> banner}}
+<div class="contact-map">
+    <div class="information">
+        <div class="contact-blue-title">
+            Contact us
+        </div>
+        <div class="contact-black-title">
+            Mara's Coast apartments
+        </div>
+        <div class="contact-tekst">
+            Our mission is to provide guests with an interesting and pleasant experience during their visit to the
+            Croatian coast, providing them with the best and necessary experience of a peaceful and family vacation.
+        </div>
+    </div>
+    <div class="map">
+        {{!-- <iframe src=""></iframe> --}}
+    </div>
+</div>
+<div class="form-contact">
+    <div class="form-text">
+        <div class="form-title-blue">
+            HOW CAN WE HELP YOU
+        </div>
+        <div class="form-title-black">
+           YOUR MESSAGE
+        </div>
+    </div>
+    <div class="form">
+        <form id="contact-form">
+            <div class="row">
+                <input id="first_last_name" type="text" placeholder="First and last name">
+            </div>
+            <div class="row-two">
+                <input type="text" placeholder="Email">
+                <input id="phone-number" type="number" placeholder="Phone">
+            </div>
+            <div class="row-three">
+                <textarea id="message" placeholder="Message"></textarea>
+            </div>
+            <div class="form-btn"><button id="submit-btn" type="submit">Submit</button></div>
+        </form>
+    </div>
+</div>
+<div class="section-home-three">
+    <div class="info">
+        <h3>
+            Phone number
+        </h3>
+        <i class="fa fa-phone"></i>
+        <p>+385 99 868 1687</p>
+    </div>
+    {{!-- <div class="info">
+        <h3>
+            Lokacija
+        </h3>
+        <i class="fa fa-map-marker"></i>
+        <p>Hehruova 51, Novi Beograd</p>
+    </div> --}}
+    <div class="info">
+        <h3>
+            WhatsApp
+        </h3>
+        <i class="fa fa-whatsapp"></i>
+        <p>+385 99 868 1687</p>
+    </div>
+    <div class="info">
+        <h3>
+            Email
+        </h3>
+        <i class="fa fa-envelope"></i>
+        <p>info@marascoast.com</p>
+    </div>
+</div>
+
+<script src="/js/sendEmail.js"></script>

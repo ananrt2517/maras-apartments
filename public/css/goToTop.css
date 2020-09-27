@@ -1,0 +1,21 @@
+#goToTop {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  padding: 6px;
+  width: 60px;
+  height: 60px;
+  border: 0;
+  background-color: #59a2cf;
+  font-size: 40px;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#goToTop:focus {
+  outline: none;
+}

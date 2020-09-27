@@ -1,0 +1,94 @@
+footer{
+    flex-wrap: wrap;
+    background-color: #212529;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.section{
+    width: 20%;
+    padding: 10px;
+    align-items: center;
+}
+.section .title{
+    font-weight: 600;
+    color: #59a2cf;
+    font-size: 20px;
+    padding: 20px 0;
+}
+
+.section .text{
+    color: rgb(168, 165, 165);
+}
+.section .nav-footer ul{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+.section .nav-footer li{
+    padding-bottom: 10px;
+    list-style: none;
+}
+.section .nav-footer a{
+    color:  #59a2cf;
+    text-decoration: none;
+}
+.section .nav-footer a:hover{
+    color: #fff;
+}
+.section .icons{
+    margin-top: 20px;
+    display: flex;
+}
+.icons .icon{
+    cursor: pointer;
+    background-color: #59a2cf;
+    margin-right: 10px;
+    height: 40px;
+    display: flex;
+    width: 40px;
+    border-radius: 50%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.icons .icon a{
+    color: black;
+}
+.icons .icon .fab{
+    position: absolute;
+    left: 12px;
+    font-size: 20px;
+    color: #fff;
+}
+.section .input-btn{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    border: 0;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+.btn button{
+    border: none;
+    padding: 10 20px;
+    background-color: #59a2cf;
+    color: #fff;
+    border-radius: 5px;
+}
+@media only screen and (max-width: 976px) {
+    footer{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    footer .section{
+        width: 90%;
+    }
+    .input-btn input{
+        width: 90%!important;
+    }
+}

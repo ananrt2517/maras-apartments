@@ -1,0 +1,28 @@
+{
+  "name": "mara_apartments_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djomla96/Levijatan_Website.git"
+  },
+  "author": "Pusica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djomla96/Levijatan_Website/issues"
+  },
+  "homepage": "https://github.com/djomla96/Levijatan_Website#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "http-errors": "^1.7.3",
+    "path": "^0.12.7"
+  }
+}

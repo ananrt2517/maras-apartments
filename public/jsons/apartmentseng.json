@@ -1,0 +1,883 @@
+{
+    "amelia": {
+        "title": "Amelia",
+        "mapa" : "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23002.0255421304!2d15.510848797944602!3d43.8920225403582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334cdaf6d80b427%3A0x426a248b7d448219!2sMara&#39;s%20Coast%20-%20Amelia!5e0!3m2!1sen!2srs!4v1593074067758!5m2!1sen!2srs\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+        "capasity": "The apartment can accommodate maximum 6 people",
+        "images": [
+            {
+                "img": "/amelia/slika1-min.jpg",
+                "id": "img-1",
+                "id_dot": "img-dot-1",
+                "prev": "img-53",
+                "next": "img-2"
+            },
+            {
+                "img": "/amelia/slika2-min.jpg",
+                "id": "img-2",
+                "id_dot": "img-dot-2",
+                "prev": "img-1",
+                "next": "img-3"
+            },
+            {
+                "img": "/amelia/slika3-min.jpg",
+                "id": "img-3",
+                "id_dot": "img-dot-3",
+                "prev": "img-2",
+                "next": "img-4"
+            },
+            {
+                "img": "/amelia/slika4-min.jpg",
+                "id": "img-4",
+                "id_dot": "img-dot-4",
+                "prev": "img-3",
+                "next": "img-5"
+            },
+            {
+                "img": "/amelia/slika15-min.jpg",
+                "id": "img-5",
+                "id_dot": "img-dot-5",
+                "prev": "img-4",
+                "next": "img-6"
+            },
+            {
+                "img": "/amelia/slika6-min.jpg",
+                "id": "img-6",
+                "id_dot": "img-dot-6",
+                "prev": "img-5",
+                "next": "img-7"
+            },
+            {
+                "img": "/amelia/slika7-min.jpg",
+                "id": "img-7",
+                "id_dot": "img-dot-7",
+                "prev": "img-6",
+                "next": "img-8"
+            },
+            {
+                "img": "/amelia/slika24-min.jpg",
+                "id": "img-8",
+                "id_dot": "img-dot-8",
+                "prev": "img-7",
+                "next": "img-9"
+            },
+            {
+                "img": "/amelia/slika9-min.jpg",
+                "id": "img-9",
+                "id_dot": "img-dot-9",
+                "prev": "img-8",
+                "next": "img-10"
+            },
+            {
+                "img": "/amelia/slika10-min.jpg",
+                "id": "img-10",
+                "id_dot": "img-dot-10",
+                "prev": "img-9",
+                "next": "img-11"
+            },
+            {
+                "img": "/amelia/slika11-min.jpg",
+                "id": "img-11",
+                "id_dot": "img-dot-11",
+                "prev": "img-10",
+                "next": "img-12"
+            },
+            {
+                "img": "/amelia/slika28-min.jpg",
+                "id": "img-12",
+                "id_dot": "img-dot-12",
+                "prev": "img-11",
+                "next": "img-13"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-13",
+                "id_dot": "img-dot-13",
+                "prev": "img-12",
+                "next": "img-14"
+            },
+            {
+                "img": "/amelia/slika14-min.jpg",
+                "id": "img-14",
+                "id_dot": "img-dot-14",
+                "prev": "img-13",
+                "next": "img-15"
+            },
+            {
+                "img": "/amelia/slika15-min.jpg",
+                "id": "img-15",
+                "id_dot": "img-dot-15",
+                "prev": "img-14",
+                "next": "img-16"
+            },
+            {
+                "img": "/amelia/slika16-min.jpg",
+                "id": "img-16",
+                "id_dot": "img-dot-16",
+                "prev": "img-15",
+                "next": "img-17"
+            },
+            {
+                "img": "/amelia/slika17-min.jpg",
+                "id": "img-17",
+                "id_dot": "img-dot-17",
+                "prev": "img-16",
+                "next": "img-18"
+            },
+            {
+                "img": "/amelia/slika18-min.jpg",
+                "id": "img-18",
+                "id_dot": "img-dot-18",
+                "prev": "img-17",
+                "next": "img-19"
+            },
+            {
+                "img": "/amelia/slika19-min.jpg",
+                "id": "img-19",
+                "id_dot": "img-dot-19",
+                "prev": "img-18",
+                "next": "img-20"
+            },
+            {
+                "img": "/amelia/slika20-min.jpg",
+                "id": "img-20",
+                "id_dot": "img-dot-20",
+                "prev": "img-19",
+                "next": "img-21"
+            },
+            {
+                "img": "/amelia/slika21-min.jpg",
+                "id": "img-21",
+                "id_dot": "img-dot-21",
+                "prev": "img-20",
+                "next": "img-22"
+            },
+            {
+                "img": "/amelia/slika14-min.jpg",
+                "id": "img-22",
+                "id_dot": "img-dot-22",
+                "prev": "img-21",
+                "next": "img-23"
+            },
+            {
+                "img": "/amelia/slika23-min.jpg",
+                "id": "img-23",
+                "id_dot": "img-dot-23",
+                "prev": "img-22",
+                "next": "img-24"
+            },
+            {
+                "img": "/amelia/slika24-min.jpg",
+                "id": "img-24",
+                "id_dot": "img-dot-24",
+                "prev": "img-23",
+                "next": "img-25"
+            },
+            {
+                "img": "/amelia/slika25-min.jpg",
+                "id": "img-25",
+                "id_dot": "img-dot-25",
+                "prev": "img-24",
+                "next": "img-26"
+            },
+            {
+                "img": "/amelia/slika26-min.jpg",
+                "id": "img-26",
+                "id_dot": "img-dot-26",
+                "prev": "img-25",
+                "next": "img-27"
+            },
+            {
+                "img": "/amelia/slika27-min.jpg",
+                "id": "img-27",
+                "id_dot": "img-dot-27",
+                "prev": "img-26",
+                "next": "img-28"
+            },
+            {
+                "img": "/amelia/slika28-min.jpg",
+                "id": "img-28",
+                "id_dot": "img-dot-28",
+                "prev": "img-27",
+                "next": "img-29"
+            },
+            {
+                "img": "/amelia/slika29-min.jpg",
+                "id": "img-29",
+                "id_dot": "img-dot-29",
+                "prev": "img-28",
+                "next": "img-30"
+            },
+            {
+                "img": "/amelia/slika30-min.jpg",
+                "id": "img-30",
+                "id_dot": "img-dot-30",
+                "prev": "img-29",
+                "next": "img-31"
+            },
+            {
+                "img": "/amelia/slika31-min.jpg",
+                "id": "img-31",
+                "id_dot": "img-dot-31",
+                "prev": "img-30",
+                "next": "img-32"
+            },
+            {
+                "img": "/amelia/slika32-min.jpg",
+                "id": "img-32",
+                "id_dot": "img-dot-32",
+                "prev": "img-31",
+                "next": "img-33"
+            },
+            {
+                "img": "/amelia/slika46-min-min.jpg",
+                "id": "img-33",
+                "id_dot": "img-dot-33",
+                "prev": "img-32",
+                "next": "img-34"
+            },
+            {
+                "img": "/amelia/slika38-min.jpg",
+                "id": "img-34",
+                "id_dot": "img-dot-34",
+                "prev": "img-33",
+                "next": "img-35"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-35",
+                "id_dot": "img-dot-35",
+                "prev": "img-34",
+                "next": "img-36"
+            },
+            {
+                "img": "/amelia/slika36-min.jpg",
+                "id": "img-36",
+                "id_dot": "img-dot-36",
+                "prev": "img-35",
+                "next": "img-37"
+            },
+            {
+                "img": "/amelia/slika37-min.jpg",
+                "id": "img-37",
+                "id_dot": "img-dot-37",
+                "prev": "img-36",
+                "next": "img-38"
+            },
+            {
+                "img": "/amelia/slika46-min-min.jpg",
+                "id": "img-38",
+                "id_dot": "img-dot-38",
+                "prev": "img-37",
+                "next": "img-39"
+            },
+            {
+                "img": "/amelia/slika14-min.jpg",
+                "id": "img-39",
+                "id_dot": "img-dot-39",
+                "prev": "img-38",
+                "next": "img-40"
+            },
+            {
+                "img": "/amelia/slika40-min.jpg",
+                "id": "img-40",
+                "id_dot": "img-dot-40",
+                "prev": "img-39",
+                "next": "img-41"
+            },
+            {
+                "img": "/amelia/slika41-min-min.jpg",
+                "id": "img-41",
+                "id_dot": "img-dot-41",
+                "prev": "img-40",
+                "next": "img-42"
+            },
+            {
+                "img": "/amelia/slika27-min.jpg",
+                "id": "img-42",
+                "id_dot": "img-dot-42",
+                "prev": "img-41",
+                "next": "img-43"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-43",
+                "id_dot": "img-dot-43",
+                "prev": "img-42",
+                "next": "img-44"
+            },
+            {
+                "img": "/amelia/slika44-min-min.jpg",
+                "id": "img-44",
+                "id_dot": "img-dot-44",
+                "prev": "img-43",
+                "next": "img-45"
+            },
+            {
+                "img": "/amelia/slika45-min-min.jpg",
+                "id": "img-45",
+                "id_dot": "img-dot-45",
+                "prev": "img-44",
+                "next": "img-46"
+            },
+            {
+                "img": "/amelia/slika46-min-min.jpg",
+                "id": "img-46",
+                "id_dot": "img-dot-46",
+                "prev": "img-45",
+                "next": "img-47"
+            },
+            {
+                "img": "/amelia/slika47-min-min.jpg",
+                "id": "img-47",
+                "id_dot": "img-dot-47",
+                "prev": "img-46",
+                "next": "img-48"
+            },
+            {
+                "img": "/amelia/slika48-min-min.jpg",
+                "id": "img-48",
+                "id_dot": "img-dot-48",
+                "prev": "img-47",
+                "next": "img-49"
+            },
+            {
+                "img": "/amelia/slika49-min-min.jpg",
+                "id": "img-49",
+                "id_dot": "img-dot-49",
+                "prev": "img-48",
+                "next": "img-50"
+            },
+            {
+                "img": "/amelia/slika50-min-min.jpg",
+                "id": "img-50",
+                "id_dot": "img-dot-50",
+                "prev": "img-49",
+                "next": "img-51"
+            },
+            {
+                "img": "/amelia/slika51-min-min.jpg",
+                "id": "img-51",
+                "id_dot": "img-dot-51",
+                "prev": "img-50",
+                "next": "img-52"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-52",
+                "id_dot": "img-dot-52",
+                "prev": "img-51",
+                "next": "img-53"
+            },
+            {
+                "img": "/amelia/slika5-min.jpg",
+                "id": "img-53",
+                "id_dot": "img-dot-53",
+                "prev": "img-52",
+                "next": "img-1"
+            }
+        ],
+        "content": [
+            "The apartment is located 10 meters from the sea",
+            "First aid and the nearest hospital is located just 3 kilometers from the apartment",
+            "Airport 30 kilometers from the destination"
+        ],
+        "icons": [
+            {
+                "text": "Free Wi-fi",
+                "icon": "wifi"
+            },
+            {
+                "text": "Secured Parking space",
+                "icon": "automobile"
+            },
+            {
+                "text": "Take a little friend",
+                "icon": "dog"
+            },
+            {
+                "text": "10m to the sea",
+                "icon": "water"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Number of persons and arrangement",
+                "text": [
+                    "The allowed number of people for this villa is 6.",
+                    "34 square meters + covered terrace with the same square footage.",
+                    "One double bed plus 4 single beds.",
+                    "The apartment is located 10m from the sea, 30m from the beach."
+                ],
+                "icon": "fas fa-door-open"
+            },
+            {
+                "title": "Price list",
+                "text": [
+                    "The minimum rent is 3 days and in the season from 1.July  5 days, with the cleaning costs to be paid amount of 70 € if the reservation is less than 5 days.",
+                    "Tourist taxes are not included in the price of accommodation and are paid on the spot in the amount of 1 euro per person, children up to 12 years do not pay the residence tax, and children from 12 to 18 years pay tax in the amount of 50%.", 
+                    "Guests are required to pay a deposit of € 300 upon arrival or through the account. In case of damage in the apartment, the landlord keeps the deposit. In case the amount of damage is higher than the deposit, the lessor additionally charges the costs of the damage on the spot. In the event that no damage is done, the lessor returns the deposit to the lessee in the same way as the deposit was paid (On the spot, via account)"
+                ],
+                "icon": "fas fa-dollar-sign"
+            },
+            {
+                "title": "Rental includes",
+                "text": [
+                    "Bed linen change every seven days, electricity, water, double towels per person, cooking utensils, cutlery, hairdryer, iron, air conditioning for cooling and heating, wi-fi, parking, baby cot and high chair with earlier note, outdoor shower, microwave, dishwasher, refrigerator with freezer, indoor and outdoor kitchen, two bathrooms with showers, 2 toilets, tumble dryer."
+                ],
+                "icon": "fas fa-home"
+            },
+            {
+                "title": "Method of payment",
+                "text": [
+                    "Reservations are made by phone number or through our website. The tenant is obliged to pay 30% of the total amount as an advance within two days after the reservation, the rest of the amount is required to pay no later than 30 days before departure. In case the lessee does not pay the amount of 70% at the agreed time, the reservation is canceled and the lessor keeps the advance. If the tenant cancels the reservation 30 or less days before the trip, the landlord retains the full rental amount of 100%. In case of booking in the season, the tenant is obliged to pay the full amount of accommodation no later than two days from the reservation. "
+                ],
+                "icon": "fas fa-cash-register"
+            },
+            {
+                "title": "Pet friendly",
+                "text": [
+                    "Pets up to 10 kg are allowed without financial compensation. Pets heavier than 10kg are prohibited."
+                ],
+                "icon": "fas fa-dog"
+            },
+            {
+                "title": "Parking",
+                "text": [
+                    "Each apartment has one parking space which is free."
+                ],
+                "icon": "fas fa-car"
+            }
+        ]
+    },
+    "bianca": {
+        "title": "Bianca",
+        "mapa" : "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.6030527319117!2d15.657857015227375!3d43.82259244947895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334d195757d370d%3A0x5d07b1af2f37c244!2sMara&#39;s%20Coast%20-%20Bianca!5e0!3m2!1sen!2srs!4v1593076075598!5m2!1sen!2srs\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+        "capasity": "The apartment can accommodate maximum 5 people",
+        "images": [
+            {
+                "img": "/bianca/slika1-min-min.jpg",
+                "id": "img-1",
+                "id_dot": "img-dot-1",
+                "prev": "img-31",
+                "next": "img-2"
+            },
+            {
+                "img": "/bianca/slika2-min-min.jpg",
+                "id": "img-2",
+                "id_dot": "img-dot-2",
+                "prev": "img-1",
+                "next": "img-3"
+            },
+            {
+                "img": "/bianca/slika3-min-min.jpg",
+                "id": "img-3",
+                "id_dot": "img-dot-3",
+                "prev": "img-2",
+                "next": "img-4"
+            },
+            {
+                "img": "/bianca/slika4-min-min.jpg",
+                "id": "img-4",
+                "id_dot": "img-dot-4",
+                "prev": "img-3",
+                "next": "img-5"
+            },
+            {
+                "img": "/bianca/slika5-min-min.jpg",
+                "id": "img-5",
+                "id_dot": "img-dot-5",
+                "prev": "img-4",
+                "next": "img-6"
+            },
+            {
+                "img": "/bianca/slika6-min-min.jpg",
+                "id": "img-6",
+                "id_dot": "img-dot-6",
+                "prev": "img-5",
+                "next": "img-7"
+            },
+            {
+                "img": "/bianca/slika7-min-min.jpg",
+                "id": "img-7",
+                "id_dot": "img-dot-7",
+                "prev": "img-6",
+                "next": "img-8"
+            },
+            {
+                "img": "/bianca/slika8-min-min.jpg",
+                "id": "img-8",
+                "id_dot": "img-dot-8",
+                "prev": "img-7",
+                "next": "img-9"
+            },
+            {
+                "img": "/bianca/slika9-min-min.jpg",
+                "id": "img-9",
+                "id_dot": "img-dot-9",
+                "prev": "img-8",
+                "next": "img-10"
+            },
+            {
+                "img": "/bianca/slika10-min-min.jpg",
+                "id": "img-10",
+                "id_dot": "img-dot-10",
+                "prev": "img-9",
+                "next": "img-11"
+            },
+            {
+                "img": "/bianca/slika11-min-min.jpg",
+                "id": "img-11",
+                "id_dot": "img-dot-11",
+                "prev": "img-10",
+                "next": "img-12"
+            },
+            {
+                "img": "/bianca/slika12-min-min.jpg",
+                "id": "img-12",
+                "id_dot": "img-dot-12",
+                "prev": "img-11",
+                "next": "img-13"
+            },
+            {
+                "img": "/bianca/slika13-min-min.jpg",
+                "id": "img-13",
+                "id_dot": "img-dot-13",
+                "prev": "img-12",
+                "next": "img-14"
+            },
+            {
+                "img": "/bianca/slika14-min-min.jpg",
+                "id": "img-14",
+                "id_dot": "img-dot-14",
+                "prev": "img-13",
+                "next": "img-15"
+            },
+            {
+                "img": "/bianca/slika23-min-min.jpg",
+                "id": "img-15",
+                "id_dot": "img-dot-15",
+                "prev": "img-14",
+                "next": "img-16"
+            },
+            {
+                "img": "/bianca/slika16-min-min.jpg",
+                "id": "img-16",
+                "id_dot": "img-dot-16",
+                "prev": "img-15",
+                "next": "img-17"
+            },
+            {
+                "img": "/bianca/slika27-min-min.jpg",
+                "id": "img-17",
+                "id_dot": "img-dot-17",
+                "prev": "img-16",
+                "next": "img-18"
+            },
+            {
+                "img": "/bianca/slika18-min-min.jpg",
+                "id": "img-18",
+                "id_dot": "img-dot-18",
+                "prev": "img-17",
+                "next": "img-19"
+            },
+            {
+                "img": "/bianca/slika19-min-min.jpg",
+                "id": "img-19",
+                "id_dot": "img-dot-19",
+                "prev": "img-18",
+                "next": "img-20"
+            },
+            {
+                "img": "/bianca/slika20-min-min.jpg",
+                "id": "img-20",
+                "id_dot": "img-dot-20",
+                "prev": "img-19",
+                "next": "img-21"
+            },
+            {
+                "img": "/bianca/slika21-min-min.jpg",
+                "id": "img-21",
+                "id_dot": "img-dot-21",
+                "prev": "img-20",
+                "next": "img-22"
+            },
+            {
+                "img": "/bianca/slika22-min-min.jpg",
+                "id": "img-22",
+                "id_dot": "img-dot-22",
+                "prev": "img-21",
+                "next": "img-23"
+            },
+            {
+                "img": "/bianca/slika23-min-min.jpg",
+                "id": "img-23",
+                "id_dot": "img-dot-23",
+                "prev": "img-22",
+                "next": "img-24"
+            },
+            {
+                "img": "/bianca/slika2-min-min.jpg",
+                "id": "img-24",
+                "id_dot": "img-dot-24",
+                "prev": "img-23",
+                "next": "img-25"
+            },
+            {
+                "img": "/bianca/slika25-min-min.jpg",
+                "id": "img-25",
+                "id_dot": "img-dot-25",
+                "prev": "img-24",
+                "next": "img-26"
+            },
+            {
+                "img": "/bianca/slika26-min-min.jpg",
+                "id": "img-26",
+                "id_dot": "img-dot-26",
+                "prev": "img-25",
+                "next": "img-27"
+            },
+            {
+                "img": "/bianca/slika27-min-min.jpg",
+                "id": "img-27",
+                "id_dot": "img-dot-27",
+                "prev": "img-26",
+                "next": "img-28"
+            },
+            {
+                "img": "/bianca/slika28-min-min.jpg",
+                "id": "img-28",
+                "id_dot": "img-dot-28",
+                "prev": "img-27",
+                "next": "img-29"
+            },
+            {
+                "img": "/bianca/slika29-min-min.jpg",
+                "id": "img-29",
+                "id_dot": "img-dot-29",
+                "prev": "img-28",
+                "next": "img-30"
+            },
+            {
+                "img": "/bianca/slika30-min-min.jpg",
+                "id": "img-30",
+                "id_dot": "img-dot-30",
+                "prev": "img-29",
+                "next": "img-31"
+            },
+            {
+                "img": "/bianca/slika31-min-min.jpg",
+                "id": "img-31",
+                "id_dot": "img-dot-31",
+                "prev": "img-30",
+                "next": "img-1"
+            }
+        ],
+        "content": [
+            "The apartment is located 100 meters from the sea",
+            "First aid and the nearest hospital is located just 3 kilometers from the apartment",
+            "Airport 50 kilometers from the destination"
+        ],
+        "icons": [
+            {
+                "text": "Free Wi-fi",
+                "icon": "wifi"
+            },
+            {
+                "text": "Secured Parking space",
+                "icon": "automobile"
+            },
+            {
+                "text": "Take a little friend",
+                "icon": "dog"
+            },
+            {
+                "text": "10m to the sea",
+                "icon": "water"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Number of persons and arrangement",
+                "text": [
+                    "The allowed number of people for this villa is 6.",
+                    "45 square meters + 70 square meters terrace with jacuzzi.",
+                    "One double bed plus 4 single beds.",
+                    "The apartment is located 100m from the sea, 100m from the beach."
+                ],
+                "icon": "fas fa-door-open"
+            },
+            {
+                "title": "Price list",
+                "text": [
+                    "The minimum rent is 3 days and in the season from 1.July  5 days, with the cleaning costs to be paid amount of 70 € if the reservation is less than 5 days.",
+                    "Tourist taxes are not included in the price of accommodation and are paid on the spot in the amount of 1 euro per person, children up to 12 years do not pay the residence tax, and children from 12 to 18 years pay tax in the amount of 50%.", 
+                    "Guests are required to pay a deposit of € 300 upon arrival or through the account. In case of damage in the apartment, the landlord keeps the deposit. In case the amount of damage is higher than the deposit, the lessor additionally charges the costs of the damage on the spot. In the event that no damage is done, the lessor returns the deposit to the lessee in the same way as the deposit was paid (On the spot, via account)"
+                ],
+                "icon": "fas fa-dollar-sign"
+            },
+            {
+                "title": "Rental includes",
+                "text": [
+                    "Bed linen change every seven days, electricity, water, double towels per person, cooking utensils, cutlery, hairdryer, iron, air conditioning for cooling and heating, wi-fi, parking, baby cot and high chair with earlier note, microwave, dishwasher, washing machine, refrigerator with freezer, indoor and outdoor kitchen, two bathrooms with showers, 2 toilets, tumble dryer."
+                ],
+                "icon": "fas fa-home"
+            },
+            {
+                "title": "Method of payment",
+                "text": [
+                    "Reservations are made by phone number or through our website. The tenant is obliged to pay 30% of the total amount as an advance within two days after the reservation, the rest of the amount is required to pay no later than 30 days before departure. In case the lessee does not pay the amount of 70% at the agreed time, the reservation is canceled and the lessor keeps the advance. If the tenant cancels the reservation 30 or less days before the trip, the landlord retains the full rental amount of 100%. In case of booking in the season, the tenant is obliged to pay the full amount of accommodation no later than two days from the reservation. "
+                ],
+                "icon": "fas fa-cash-register"
+            },
+            {
+                "title": "Pet friendly",
+                "text": [
+                    "Pets up to 10 kg are allowed without financial compensation. Pets heavier than 10kg are prohibited."
+                ],
+                "icon": "fas fa-dog"
+            },
+            {
+                "title": "Parking",
+                "text": [
+                    "Each apartment has one parking space which is free."
+                ],
+                "icon": "fas fa-car"
+            }
+        ]
+    },
+    "ciara": {
+        "title": "Ciara",
+        "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.676333291203!2d15.53347811522934!3d43.88325724554214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334cded16cf70c3%3A0x91d6e6dc73967a00!2sMara&#39;s%20Coast%20-%20Ciara!5e0!3m2!1sen!2srs!4v1593080928365!5m2!1sen!2srs\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+        "capasity": "The apartment can accommodate maximum 6 people",
+        "images": [
+            {
+                "img": "/ciara/slika1-min-min.jpg",
+                "id": "img-1",
+                "id_dot": "img-dot-1",
+                "prev": "img-8",
+                "next": "img-2"
+            },
+            {
+                "img": "/ciara/slika2-min-min.jpg",
+                "id": "img-2",
+                "id_dot": "img-dot-2",
+                "prev": "img-1",
+                "next": "img-3"
+            },
+            {
+                "img": "/ciara/slika3-min-min.jpg",
+                "id": "img-3",
+                "id_dot": "img-dot-3",
+                "prev": "img-2",
+                "next": "img-4"
+            },
+            {
+                "img": "/ciara/slika7-min-min.jpg",
+                "id": "img-4",
+                "id_dot": "img-dot-4",
+                "prev": "img-3",
+                "next": "img-5"
+            },
+            {
+                "img": "/ciara/slika5-min-min.jpg",
+                "id": "img-5",
+                "id_dot": "img-dot-5",
+                "prev": "img-4",
+                "next": "img-6"
+            },
+            {
+                "img": "/ciara/slika6-min-min.jpg",
+                "id": "img-6",
+                "id_dot": "img-dot-6",
+                "prev": "img-5",
+                "next": "img-7"
+            },
+            {
+                "img": "/ciara/slika8-min-min.jpg",
+                "id": "img-7",
+                "id_dot": "img-dot-7",
+                "prev": "img-6",
+                "next": "img-8"
+            },
+            {
+                "img": "/ciara/slika4-min-min.jpg",
+                "id": "img-8",
+                "id_dot": "img-dot-8",
+                "prev": "img-7",
+                "next": "img-1"
+            }
+        ],
+        "content": [
+            "The apartment is located 10 meters from the sea",
+            "First aid and the nearest hospital is located just 3 kilometers from the apartment",
+            "Airport 30 kilometers from the destination"
+        ],
+        "icons": [
+            {
+                "text": "Free Wi-fi",
+                "icon": "wifi"
+            },
+            {
+                "text": "Secured Parking space",
+                "icon": "automobile"
+            },
+            {
+                "text": "Take a little friend",
+                "icon": "dog"
+            },
+            {
+                "text": "10m to the sea",
+                "icon": "water"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Number of persons and arrangement",
+                "text": [
+                    "The allowed number of people for this villa is 6.",
+                    "34 square meters + covered terrace with the same square footage.",
+                    "One double bed plus 4 single beds.",
+                    "The apartment is located 10m from the sea, 30m from the beach."
+                ],
+                "icon": "fas fa-door-open"
+            },
+            {
+                "title": "Price list",
+                "text": [
+                    "The minimum rent is 3 days and in the season from 1.July  5 days, with the cleaning costs to be paid amount of 70 € if the reservation is less than 5 days.",
+                    "Tourist taxes are not included in the price of accommodation and are paid on the spot in the amount of 1 euro per person, children up to 12 years do not pay the residence tax, and children from 12 to 18 years pay tax in the amount of 50%.", 
+                    "Guests are required to pay a deposit of € 300 upon arrival or through the account. In case of damage in the apartment, the landlord keeps the deposit. In case the amount of damage is higher than the deposit, the lessor additionally charges the costs of the damage on the spot. In the event that no damage is done, the lessor returns the deposit to the lessee in the same way as the deposit was paid (On the spot, via account)"
+                ],
+                "icon": "fas fa-dollar-sign"
+            },
+            {
+                "title": "Rental includes",
+                "text": [
+                    "Bed linen change every seven days, electricity, water, double towels per person, cooking utensils, cutlery, hairdryer, iron, air conditioning for cooling and heating, wi-fi, parking, baby cot and high chair with earlier note, outdoor shower, microwave, dishwasher, refrigerator with freezer, indoor and outdoor kitchen, two bathrooms with showers, 2 toilets, tumble dryer."
+                ],
+                "icon": "fas fa-home"
+            },
+            {
+                "title": "Method of payment",
+                "text": [
+                    "Reservations are made by phone number or through our website. The tenant is obliged to pay 30% of the total amount as an advance within two days after the reservation, the rest of the amount is required to pay no later than 30 days before departure. In case the lessee does not pay the amount of 70% at the agreed time, the reservation is canceled and the lessor keeps the advance. If the tenant cancels the reservation 30 or less days before the trip, the landlord retains the full rental amount of 100%. In case of booking in the season, the tenant is obliged to pay the full amount of accommodation no later than two days from the reservation. "
+                ],
+                "icon": "fas fa-cash-register"
+            },
+            {
+                "title": "Pet friendly",
+                "text": [
+                    "Pets up to 10 kg are allowed without financial compensation. Pets heavier than 10kg are prohibited."
+                ],
+                "icon": "fas fa-dog"
+            },
+            {
+                "title": "Parking",
+                "text": [
+                    "Each apartment has one parking space which is free."
+                ],
+                "icon": "fas fa-car"
+            }
+        ]
+    }
+}

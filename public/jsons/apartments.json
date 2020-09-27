@@ -1,0 +1,883 @@
+{
+    "amelia": {
+        "title": "Amelia",
+        "mapa" : "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23002.0255421304!2d15.510848797944602!3d43.8920225403582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334cdaf6d80b427%3A0x426a248b7d448219!2sMara&#39;s%20Coast%20-%20Amelia!5e0!3m2!1sen!2srs!4v1593074067758!5m2!1sen!2srs\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+        "capasity": "Apartman prima najviše 6 osoba",
+        "images": [
+            {
+                "img": "/amelia/slika1-min.jpg",
+                "id": "img-1",
+                "id_dot": "img-dot-1",
+                "prev": "img-53",
+                "next": "img-2"
+            },
+            {
+                "img": "/amelia/slika2-min.jpg",
+                "id": "img-2",
+                "id_dot": "img-dot-2",
+                "prev": "img-1",
+                "next": "img-3"
+            },
+            {
+                "img": "/amelia/slika3-min.jpg",
+                "id": "img-3",
+                "id_dot": "img-dot-3",
+                "prev": "img-2",
+                "next": "img-4"
+            },
+            {
+                "img": "/amelia/slika4-min.jpg",
+                "id": "img-4",
+                "id_dot": "img-dot-4",
+                "prev": "img-3",
+                "next": "img-5"
+            },
+            {
+                "img": "/amelia/slika15-min.jpg",
+                "id": "img-5",
+                "id_dot": "img-dot-5",
+                "prev": "img-4",
+                "next": "img-6"
+            },
+            {
+                "img": "/amelia/slika6-min.jpg",
+                "id": "img-6",
+                "id_dot": "img-dot-6",
+                "prev": "img-5",
+                "next": "img-7"
+            },
+            {
+                "img": "/amelia/slika7-min.jpg",
+                "id": "img-7",
+                "id_dot": "img-dot-7",
+                "prev": "img-6",
+                "next": "img-8"
+            },
+            {
+                "img": "/amelia/slika24-min.jpg",
+                "id": "img-8",
+                "id_dot": "img-dot-8",
+                "prev": "img-7",
+                "next": "img-9"
+            },
+            {
+                "img": "/amelia/slika9-min.jpg",
+                "id": "img-9",
+                "id_dot": "img-dot-9",
+                "prev": "img-8",
+                "next": "img-10"
+            },
+            {
+                "img": "/amelia/slika10-min.jpg",
+                "id": "img-10",
+                "id_dot": "img-dot-10",
+                "prev": "img-9",
+                "next": "img-11"
+            },
+            {
+                "img": "/amelia/slika11-min.jpg",
+                "id": "img-11",
+                "id_dot": "img-dot-11",
+                "prev": "img-10",
+                "next": "img-12"
+            },
+            {
+                "img": "/amelia/slika28-min.jpg",
+                "id": "img-12",
+                "id_dot": "img-dot-12",
+                "prev": "img-11",
+                "next": "img-13"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-13",
+                "id_dot": "img-dot-13",
+                "prev": "img-12",
+                "next": "img-14"
+            },
+            {
+                "img": "/amelia/slika14-min.jpg",
+                "id": "img-14",
+                "id_dot": "img-dot-14",
+                "prev": "img-13",
+                "next": "img-15"
+            },
+            {
+                "img": "/amelia/slika15-min.jpg",
+                "id": "img-15",
+                "id_dot": "img-dot-15",
+                "prev": "img-14",
+                "next": "img-16"
+            },
+            {
+                "img": "/amelia/slika16-min.jpg",
+                "id": "img-16",
+                "id_dot": "img-dot-16",
+                "prev": "img-15",
+                "next": "img-17"
+            },
+            {
+                "img": "/amelia/slika17-min.jpg",
+                "id": "img-17",
+                "id_dot": "img-dot-17",
+                "prev": "img-16",
+                "next": "img-18"
+            },
+            {
+                "img": "/amelia/slika18-min.jpg",
+                "id": "img-18",
+                "id_dot": "img-dot-18",
+                "prev": "img-17",
+                "next": "img-19"
+            },
+            {
+                "img": "/amelia/slika19-min.jpg",
+                "id": "img-19",
+                "id_dot": "img-dot-19",
+                "prev": "img-18",
+                "next": "img-20"
+            },
+            {
+                "img": "/amelia/slika20-min.jpg",
+                "id": "img-20",
+                "id_dot": "img-dot-20",
+                "prev": "img-19",
+                "next": "img-21"
+            },
+            {
+                "img": "/amelia/slika21-min.jpg",
+                "id": "img-21",
+                "id_dot": "img-dot-21",
+                "prev": "img-20",
+                "next": "img-22"
+            },
+            {
+                "img": "/amelia/slika14-min.jpg",
+                "id": "img-22",
+                "id_dot": "img-dot-22",
+                "prev": "img-21",
+                "next": "img-23"
+            },
+            {
+                "img": "/amelia/slika23-min.jpg",
+                "id": "img-23",
+                "id_dot": "img-dot-23",
+                "prev": "img-22",
+                "next": "img-24"
+            },
+            {
+                "img": "/amelia/slika24-min.jpg",
+                "id": "img-24",
+                "id_dot": "img-dot-24",
+                "prev": "img-23",
+                "next": "img-25"
+            },
+            {
+                "img": "/amelia/slika25-min.jpg",
+                "id": "img-25",
+                "id_dot": "img-dot-25",
+                "prev": "img-24",
+                "next": "img-26"
+            },
+            {
+                "img": "/amelia/slika26-min.jpg",
+                "id": "img-26",
+                "id_dot": "img-dot-26",
+                "prev": "img-25",
+                "next": "img-27"
+            },
+            {
+                "img": "/amelia/slika27-min.jpg",
+                "id": "img-27",
+                "id_dot": "img-dot-27",
+                "prev": "img-26",
+                "next": "img-28"
+            },
+            {
+                "img": "/amelia/slika28-min.jpg",
+                "id": "img-28",
+                "id_dot": "img-dot-28",
+                "prev": "img-27",
+                "next": "img-29"
+            },
+            {
+                "img": "/amelia/slika29-min.jpg",
+                "id": "img-29",
+                "id_dot": "img-dot-29",
+                "prev": "img-28",
+                "next": "img-30"
+            },
+            {
+                "img": "/amelia/slika30-min.jpg",
+                "id": "img-30",
+                "id_dot": "img-dot-30",
+                "prev": "img-29",
+                "next": "img-31"
+            },
+            {
+                "img": "/amelia/slika31-min.jpg",
+                "id": "img-31",
+                "id_dot": "img-dot-31",
+                "prev": "img-30",
+                "next": "img-32"
+            },
+            {
+                "img": "/amelia/slika32-min.jpg",
+                "id": "img-32",
+                "id_dot": "img-dot-32",
+                "prev": "img-31",
+                "next": "img-33"
+            },
+            {
+                "img": "/amelia/slika46-min-min.jpg",
+                "id": "img-33",
+                "id_dot": "img-dot-33",
+                "prev": "img-32",
+                "next": "img-34"
+            },
+            {
+                "img": "/amelia/slika38-min.jpg",
+                "id": "img-34",
+                "id_dot": "img-dot-34",
+                "prev": "img-33",
+                "next": "img-35"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-35",
+                "id_dot": "img-dot-35",
+                "prev": "img-34",
+                "next": "img-36"
+            },
+            {
+                "img": "/amelia/slika36-min.jpg",
+                "id": "img-36",
+                "id_dot": "img-dot-36",
+                "prev": "img-35",
+                "next": "img-37"
+            },
+            {
+                "img": "/amelia/slika37-min.jpg",
+                "id": "img-37",
+                "id_dot": "img-dot-37",
+                "prev": "img-36",
+                "next": "img-38"
+            },
+            {
+                "img": "/amelia/slika46-min-min.jpg",
+                "id": "img-38",
+                "id_dot": "img-dot-38",
+                "prev": "img-37",
+                "next": "img-39"
+            },
+            {
+                "img": "/amelia/slika14-min.jpg",
+                "id": "img-39",
+                "id_dot": "img-dot-39",
+                "prev": "img-38",
+                "next": "img-40"
+            },
+            {
+                "img": "/amelia/slika40-min.jpg",
+                "id": "img-40",
+                "id_dot": "img-dot-40",
+                "prev": "img-39",
+                "next": "img-41"
+            },
+            {
+                "img": "/amelia/slika41-min-min.jpg",
+                "id": "img-41",
+                "id_dot": "img-dot-41",
+                "prev": "img-40",
+                "next": "img-42"
+            },
+            {
+                "img": "/amelia/slika27-min.jpg",
+                "id": "img-42",
+                "id_dot": "img-dot-42",
+                "prev": "img-41",
+                "next": "img-43"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-43",
+                "id_dot": "img-dot-43",
+                "prev": "img-42",
+                "next": "img-44"
+            },
+            {
+                "img": "/amelia/slika44-min-min.jpg",
+                "id": "img-44",
+                "id_dot": "img-dot-44",
+                "prev": "img-43",
+                "next": "img-45"
+            },
+            {
+                "img": "/amelia/slika45-min-min.jpg",
+                "id": "img-45",
+                "id_dot": "img-dot-45",
+                "prev": "img-44",
+                "next": "img-46"
+            },
+            {
+                "img": "/amelia/slika46-min-min.jpg",
+                "id": "img-46",
+                "id_dot": "img-dot-46",
+                "prev": "img-45",
+                "next": "img-47"
+            },
+            {
+                "img": "/amelia/slika47-min-min.jpg",
+                "id": "img-47",
+                "id_dot": "img-dot-47",
+                "prev": "img-46",
+                "next": "img-48"
+            },
+            {
+                "img": "/amelia/slika48-min-min.jpg",
+                "id": "img-48",
+                "id_dot": "img-dot-48",
+                "prev": "img-47",
+                "next": "img-49"
+            },
+            {
+                "img": "/amelia/slika49-min-min.jpg",
+                "id": "img-49",
+                "id_dot": "img-dot-49",
+                "prev": "img-48",
+                "next": "img-50"
+            },
+            {
+                "img": "/amelia/slika50-min-min.jpg",
+                "id": "img-50",
+                "id_dot": "img-dot-50",
+                "prev": "img-49",
+                "next": "img-51"
+            },
+            {
+                "img": "/amelia/slika51-min-min.jpg",
+                "id": "img-51",
+                "id_dot": "img-dot-51",
+                "prev": "img-50",
+                "next": "img-52"
+            },
+            {
+                "img": "/amelia/slika52-min-min.jpg",
+                "id": "img-52",
+                "id_dot": "img-dot-52",
+                "prev": "img-51",
+                "next": "img-53"
+            },
+            {
+                "img": "/amelia/slika5-min.jpg",
+                "id": "img-53",
+                "id_dot": "img-dot-53",
+                "prev": "img-52",
+                "next": "img-1"
+            }
+        ],
+        "content": [
+            "Apartman se nalazi 10 metara od mora",
+            "Prva pomoć i najbliža bolnica se nalazi u neposredno 3 kilometra od apartmana",
+            "Aerodrom na 30 kilometara od destinacije"
+        ],
+        "icons": [
+            {
+                "text": "Besplatan Wi-fi",
+                "icon": "wifi"
+            },
+            {
+                "text": "Obezbedjeno Parking mesto",
+                "icon": "automobile"
+            },
+            {
+                "text": "Povedite malog drugara",
+                "icon": "dog"
+            },
+            {
+                "text": "10m do mora",
+                "icon": "water"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Broj osoba i aranžman",
+                "text": [
+                    "Dozvoljen broj osoba za ovu vilu je 6.",
+                    "34 metara kvadratnih + pokrivena terasa sa istom kvadraturom.",
+                    "Jedan bračni krevet plus 4 odvojena kreveta",
+                    "Apartman se nalazi na 10m od mora,30m od plaže"
+                ],
+                "icon": "fas fa-door-open"
+            },
+            {
+                "title": "Cenovnik",
+                "text": [
+                    "Minimum za iznajmjivanje je 3 dana, s tim da se troškovi čišćenja, za boravke manje od 5 dana, plaćaju samoinicijativno u iznosu od 70e.",
+                    "Boravišne takse ne ulaze u cenu smeštaja i plaćaju se na licu mesta u iznosu od 1 evro po osobi, deca do 12 godina ne plaćaju boravišnu taksu,a deca od 12 do 18 godina plaćaju taksu u iznosu od 50%.", 
+                    "Gosti su dužni da po dolasku ili preko računa uplate depozit u iznosu od jednodnevnog boravka u apartmanu u delu sezone u kome dolazi. U slučaju načinjene štete u apartmanu zakupodavac zadržava depozit. U slučaju da je iznos štete veći od depozita zakupodavac dodatno naplaćuje troškove štete na licu mesta. U slučaju da nikakva šteta nije napravljena,zakupodavac vraća depozit zakupcu na isti način na koji je depozit uplaćen (Na licu mesta,Preko računa)"
+                ],
+                "icon": "fas fa-dollar-sign"
+            },
+            {
+                "title": "Iznajmljivanje uključuje",
+                "text": [
+                    "Menjanje posteljine na sedam dana, struju, vodu, duple peškire po osobi, posudje za kuvanje, escajg, fen, peglu, klimu za hladjenje i grejanje, wi-fi, parking, krevetac za bebe i stolicu za hranjene uz raniju napomenu, vanjski tuš, mikrotalasna, mašina za sudove, frižider sa zamrzivačem, unutrašnja i vanjska kuhinja, dva kupatila sa tuš kabinama, 2 wc-šolje, sušilicu za veš."
+                ],
+                "icon": "fas fa-home"
+            },
+            {
+                "title": "Način plaćanja",
+                "text": [
+                    "Rezervacije se vrše putem broja telefona ili preko našeg sajta. Zakupac je dužan da za najviše dva dana nakon rezervacije uplati 30% od ukupnog iznosa kao avans,ostatak sume je dužan da uplati najkasnije 30 dana pred polazak.U slučaju da zakupac ne uplati iznos od 70% u dogovoreno vreme rezervacija se otkazuje i zakupodavac zadržava avans. Ukoliko zakupac otkaže rezervaciju 30 ili manje dana pred put zakupodavac zadržava pun iznos iznajmljivanja od 100%. U slučaju rezervacije u sezoni zakupac je dužan da uplati pun iznos smeštaja najviše dva dana od rezervacije. "
+                ],
+                "icon": "fas fa-cash-register"
+            },
+            {
+                "title": "Pet friendly",
+                "text": [
+                    "Kućni ljubimci do 10kg su dozvoljeni bez finansijske nadoknade. Ljubimci koji su teži od 10kg su zabranjeni."
+                ],
+                "icon": "fas fa-dog"
+            },
+            {
+                "title": "Parking",
+                "text": [
+                    "Svaki apartman poseduje po jedno parking mesto koje je besplatno."
+                ],
+                "icon": "fas fa-car"
+            }
+        ]
+    },
+    "bianca": {
+        "title": "Bianca",
+        "mapa" : "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.6030527319117!2d15.657857015227375!3d43.82259244947895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334d195757d370d%3A0x5d07b1af2f37c244!2sMara&#39;s%20Coast%20-%20Bianca!5e0!3m2!1sen!2srs!4v1593076075598!5m2!1sen!2srs\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+        "capasity": "Apartman prima najviše 5 osoba",
+        "images": [
+            {
+                "img": "/bianca/slika1-min-min.jpg",
+                "id": "img-1",
+                "id_dot": "img-dot-1",
+                "prev": "img-31",
+                "next": "img-2"
+            },
+            {
+                "img": "/bianca/slika2-min-min.jpg",
+                "id": "img-2",
+                "id_dot": "img-dot-2",
+                "prev": "img-1",
+                "next": "img-3"
+            },
+            {
+                "img": "/bianca/slika3-min-min.jpg",
+                "id": "img-3",
+                "id_dot": "img-dot-3",
+                "prev": "img-2",
+                "next": "img-4"
+            },
+            {
+                "img": "/bianca/slika4-min-min.jpg",
+                "id": "img-4",
+                "id_dot": "img-dot-4",
+                "prev": "img-3",
+                "next": "img-5"
+            },
+            {
+                "img": "/bianca/slika5-min-min.jpg",
+                "id": "img-5",
+                "id_dot": "img-dot-5",
+                "prev": "img-4",
+                "next": "img-6"
+            },
+            {
+                "img": "/bianca/slika6-min-min.jpg",
+                "id": "img-6",
+                "id_dot": "img-dot-6",
+                "prev": "img-5",
+                "next": "img-7"
+            },
+            {
+                "img": "/bianca/slika7-min-min.jpg",
+                "id": "img-7",
+                "id_dot": "img-dot-7",
+                "prev": "img-6",
+                "next": "img-8"
+            },
+            {
+                "img": "/bianca/slika8-min-min.jpg",
+                "id": "img-8",
+                "id_dot": "img-dot-8",
+                "prev": "img-7",
+                "next": "img-9"
+            },
+            {
+                "img": "/bianca/slika9-min-min.jpg",
+                "id": "img-9",
+                "id_dot": "img-dot-9",
+                "prev": "img-8",
+                "next": "img-10"
+            },
+            {
+                "img": "/bianca/slika10-min-min.jpg",
+                "id": "img-10",
+                "id_dot": "img-dot-10",
+                "prev": "img-9",
+                "next": "img-11"
+            },
+            {
+                "img": "/bianca/slika11-min-min.jpg",
+                "id": "img-11",
+                "id_dot": "img-dot-11",
+                "prev": "img-10",
+                "next": "img-12"
+            },
+            {
+                "img": "/bianca/slika12-min-min.jpg",
+                "id": "img-12",
+                "id_dot": "img-dot-12",
+                "prev": "img-11",
+                "next": "img-13"
+            },
+            {
+                "img": "/bianca/slika13-min-min.jpg",
+                "id": "img-13",
+                "id_dot": "img-dot-13",
+                "prev": "img-12",
+                "next": "img-14"
+            },
+            {
+                "img": "/bianca/slika14-min-min.jpg",
+                "id": "img-14",
+                "id_dot": "img-dot-14",
+                "prev": "img-13",
+                "next": "img-15"
+            },
+            {
+                "img": "/bianca/slika23-min-min.jpg",
+                "id": "img-15",
+                "id_dot": "img-dot-15",
+                "prev": "img-14",
+                "next": "img-16"
+            },
+            {
+                "img": "/bianca/slika16-min-min.jpg",
+                "id": "img-16",
+                "id_dot": "img-dot-16",
+                "prev": "img-15",
+                "next": "img-17"
+            },
+            {
+                "img": "/bianca/slika27-min-min.jpg",
+                "id": "img-17",
+                "id_dot": "img-dot-17",
+                "prev": "img-16",
+                "next": "img-18"
+            },
+            {
+                "img": "/bianca/slika18-min-min.jpg",
+                "id": "img-18",
+                "id_dot": "img-dot-18",
+                "prev": "img-17",
+                "next": "img-19"
+            },
+            {
+                "img": "/bianca/slika19-min-min.jpg",
+                "id": "img-19",
+                "id_dot": "img-dot-19",
+                "prev": "img-18",
+                "next": "img-20"
+            },
+            {
+                "img": "/bianca/slika20-min-min.jpg",
+                "id": "img-20",
+                "id_dot": "img-dot-20",
+                "prev": "img-19",
+                "next": "img-21"
+            },
+            {
+                "img": "/bianca/slika21-min-min.jpg",
+                "id": "img-21",
+                "id_dot": "img-dot-21",
+                "prev": "img-20",
+                "next": "img-22"
+            },
+            {
+                "img": "/bianca/slika22-min-min.jpg",
+                "id": "img-22",
+                "id_dot": "img-dot-22",
+                "prev": "img-21",
+                "next": "img-23"
+            },
+            {
+                "img": "/bianca/slika23-min-min.jpg",
+                "id": "img-23",
+                "id_dot": "img-dot-23",
+                "prev": "img-22",
+                "next": "img-24"
+            },
+            {
+                "img": "/bianca/slika2-min-min.jpg",
+                "id": "img-24",
+                "id_dot": "img-dot-24",
+                "prev": "img-23",
+                "next": "img-25"
+            },
+            {
+                "img": "/bianca/slika25-min-min.jpg",
+                "id": "img-25",
+                "id_dot": "img-dot-25",
+                "prev": "img-24",
+                "next": "img-26"
+            },
+            {
+                "img": "/bianca/slika26-min-min.jpg",
+                "id": "img-26",
+                "id_dot": "img-dot-26",
+                "prev": "img-25",
+                "next": "img-27"
+            },
+            {
+                "img": "/bianca/slika27-min-min.jpg",
+                "id": "img-27",
+                "id_dot": "img-dot-27",
+                "prev": "img-26",
+                "next": "img-28"
+            },
+            {
+                "img": "/bianca/slika28-min-min.jpg",
+                "id": "img-28",
+                "id_dot": "img-dot-28",
+                "prev": "img-27",
+                "next": "img-29"
+            },
+            {
+                "img": "/bianca/slika29-min-min.jpg",
+                "id": "img-29",
+                "id_dot": "img-dot-29",
+                "prev": "img-28",
+                "next": "img-30"
+            },
+            {
+                "img": "/bianca/slika30-min-min.jpg",
+                "id": "img-30",
+                "id_dot": "img-dot-30",
+                "prev": "img-29",
+                "next": "img-31"
+            },
+            {
+                "img": "/bianca/slika31-min-min.jpg",
+                "id": "img-31",
+                "id_dot": "img-dot-31",
+                "prev": "img-30",
+                "next": "img-1"
+            }
+        ],
+        "content": [
+            "Apartman se nalazi 100 metara od mora",
+            "Prva pomoć i najbliža bolnica se nalazi u neposredno 3 kilometra od apartmana",
+            "Aerodrom na 50 kilometara od destinacije"
+        ],
+        "icons": [
+            {
+                "text": "Besplatan Wi-fi",
+                "icon": "wifi"
+            },
+            {
+                "text": "Obezbedjeno Parking mesto",
+                "icon": "automobile"
+            },
+            {
+                "text": "Povedite malog drugara",
+                "icon": "dog"
+            },
+            {
+                "text": "10m do mora",
+                "icon": "water"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Broj osoba i aranžman",
+                "text": [
+                    "Dozvoljen broj osoba za ovu vilu je 5.",
+                    "45m kvadratnih plus 70m kvadratnih terase sa đakuzijem",
+                    "Jedan bračni krevet plus 4 odvojena kreveta",
+                    "Apartman se nalazi na 100m od mora, 100m od plaže"
+                ],
+                "icon": "fas fa-door-open"
+            },
+            {
+                "title": "Cenovnik",
+                "text": [
+                    "Minimum za iznajmjivanje je 3 dana, s tim da se troškovi čišćenja, za boravke manje od 5 dana, plaćaju samoinicijativno u iznosu od 70e.",
+                    "Boravišne takse ne ulaze u cenu smeštaja i plaćaju se na licu mesta u iznosu od 1 evro po osobi, deca do 12 godina ne plaćaju boravišnu taksu,a deca od 12 do 18 godina plaćaju taksu u iznosu od 50%.", 
+                    "Gosti su dužni da po dolasku ili preko računa uplate depozit u iznosu od jednodnevnog boravka u apartmanu u delu sezone u kome dolazi. U slučaju načinjene štete u apartmanu zakupodavac zadržava depozit. U slučaju da je iznos štete veći od depozita zakupodavac dodatno naplaćuje troškove štete na licu mesta. U slučaju da nikakva šteta nije napravljena,zakupodavac vraća depozit zakupcu na isti način na koji je depozit uplaćen (Na licu mesta,Preko računa)"
+                ],
+                "icon": "fas fa-dollar-sign"
+            },
+            {
+                "title": "Iznajmljivanje uključuje",
+                "text": [
+                    "Menjanje posteljine na sedam dana, struju, vodu, duple peškire po osobi, posudje za kuvanje, escajg, fen, peglu, klimu za hladjenje i grejanje, wi-fi, parking, krevetac za bebe i stolicu za hranjene uz raniju napomenu, mikrotalasna, ve mašina za sudove, veš mašina, frižider sa zamrzivačem, unutrašnja i vanjska kuhinja, dva kupatila sa tuš kabinama, 2 wc-šolje, sušilicu za veš."
+                ],
+                "icon": "fas fa-home"
+            },
+            {
+                "title": "Način plaćanja",
+                "text": [
+                    "Rezervacije se vrše putem broja telefona ili preko našeg sajta. Zakupac je dužan da za najviše dva dana nakon rezervacije uplati 30% od ukupnog iznosa kao avans,ostatak sume je dužan da uplati najkasnije 30 dana pred polazak.U slučaju da zakupac ne uplati iznos od 70% u dogovoreno vreme rezervacija se otkazuje i zakupodavac zadržava avans. Ukoliko zakupac otkaže rezervaciju 30 ili manje dana pred put zakupodavac zadržava pun iznos iznajmljivanja od 100%. U slučaju rezervacije u sezoni zakupac je dužan da uplati pun iznos smeštaja najviše dva dana od rezervacije. "
+                ],
+                "icon": "fas fa-cash-register"
+            },
+            {
+                "title": "Pet friendly",
+                "text": [
+                    "Kućni ljubimci do 10kg su dozvoljeni bez finansijske nadoknade. Ljubimci koji su teži od 10kg su zabranjeni."
+                ],
+                "icon": "fas fa-dog"
+            },
+            {
+                "title": "Parking",
+                "text": [
+                    "Svaki apartman poseduje po jedno parking mesto koje je besplatno."
+                ],
+                "icon": "fas fa-car"
+            }
+        ]
+    },
+    "ciara": {
+        "title": "Ciara",
+        "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.676333291203!2d15.53347811522934!3d43.88325724554214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334cded16cf70c3%3A0x91d6e6dc73967a00!2sMara&#39;s%20Coast%20-%20Ciara!5e0!3m2!1sen!2srs!4v1593080928365!5m2!1sen!2srs\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+        "capasity": "Apartman prima najviše 6 osoba",
+        "images": [
+            {
+                "img": "/ciara/slika1-min-min.jpg",
+                "id": "img-1",
+                "id_dot": "img-dot-1",
+                "prev": "img-8",
+                "next": "img-2"
+            },
+            {
+                "img": "/ciara/slika2-min-min.jpg",
+                "id": "img-2",
+                "id_dot": "img-dot-2",
+                "prev": "img-1",
+                "next": "img-3"
+            },
+            {
+                "img": "/ciara/slika3-min-min.jpg",
+                "id": "img-3",
+                "id_dot": "img-dot-3",
+                "prev": "img-2",
+                "next": "img-4"
+            },
+            {
+                "img": "/ciara/slika7-min-min.jpg",
+                "id": "img-4",
+                "id_dot": "img-dot-4",
+                "prev": "img-3",
+                "next": "img-5"
+            },
+            {
+                "img": "/ciara/slika5-min-min.jpg",
+                "id": "img-5",
+                "id_dot": "img-dot-5",
+                "prev": "img-4",
+                "next": "img-6"
+            },
+            {
+                "img": "/ciara/slika6-min-min.jpg",
+                "id": "img-6",
+                "id_dot": "img-dot-6",
+                "prev": "img-5",
+                "next": "img-7"
+            },
+            {
+                "img": "/ciara/slika8-min-min.jpg",
+                "id": "img-7",
+                "id_dot": "img-dot-7",
+                "prev": "img-6",
+                "next": "img-8"
+            },
+            {
+                "img": "/ciara/slika4-min-min.jpg",
+                "id": "img-8",
+                "id_dot": "img-dot-8",
+                "prev": "img-7",
+                "next": "img-1"
+            }
+        ],
+        "content": [
+            "Apartman se nalazi 10 metara od mora",
+            "Prva pomoć i najbliža bolnica se nalazi u neposredno 3 kilometra od apartmana",
+            "Aerodrom na 30 kilometara od destinacije"
+        ],
+        "icons": [
+            {
+                "text": "Besplatan Wi-fi",
+                "icon": "wifi"
+            },
+            {
+                "text": "Obezbedjeno Parking mesto",
+                "icon": "automobile"
+            },
+            {
+                "text": "Povedite malog drugara",
+                "icon": "dog"
+            },
+            {
+                "text": "10m do mora",
+                "icon": "water"
+            }
+        ],
+        "cards": [
+            {
+                "title": "Broj osoba i aranžman",
+                "text": [
+                    "Dozvoljen broj osoba za ovu vilu je 6.",
+                    "34 metara kvadratnih + pokrivena terasa sa istom kvadraturom.",
+                    "Jedan bračni krevet plus 4 odvojena kreveta",
+                    "Apartman se nalazi na 10m od mora,30m od plaže"
+                ],
+                "icon": "fas fa-door-open"
+            },
+            {
+                "title": "Cenovnik",
+                "text": [
+                    "Minimum za iznajmjivanje je 3 dana, s tim da se troškovi čišćenja, za boravke manje od 5 dana, plaćaju samoinicijativno u iznosu od 70e.",
+                    "Boravišne takse ne ulaze u cenu smeštaja i plaćaju se na licu mesta u iznosu od 1 evro po osobi, deca do 12 godina ne plaćaju boravišnu taksu,a deca od 12 do 18 godina plaćaju taksu u iznosu od 50%.", 
+                    "Gosti su dužni da po dolasku ili preko računa uplate depozit u iznosu od jednodnevnog boravka u apartmanu u delu sezone u kome dolazi. U slučaju načinjene štete u apartmanu zakupodavac zadržava depozit. U slučaju da je iznos štete veći od depozita zakupodavac dodatno naplaćuje troškove štete na licu mesta. U slučaju da nikakva šteta nije napravljena,zakupodavac vraća depozit zakupcu na isti način na koji je depozit uplaćen (Na licu mesta,Preko računa)"
+                ],
+                "icon": "fas fa-dollar-sign"
+            },
+            {
+                "title": "Iznajmljivanje uključuje",
+                "text": [
+                    "Menjanje posteljine na sedam dana, struju, vodu, duple peškire po osobi, posudje za kuvanje, escajg, fen, peglu, klimu za hladjenje i grejanje, wi-fi, parking, krevetac za bebe i stolicu za hranjene uz raniju napomenu, vanjski tuš, mikrotalasna, mašina za sudove, frižider sa zamrzivačem, unutrašnja i vanjska kuhinja, dva kupatila sa tuš kabinama, 2 wc-šolje, sušilicu za veš."
+                ],
+                "icon": "fas fa-home"
+            },
+            {
+                "title": "Način plaćanja",
+                "text": [
+                    "Rezervacije se vrše putem broja telefona ili preko našeg sajta. Zakupac je dužan da za najviše dva dana nakon rezervacije uplati 30% od ukupnog iznosa kao avans,ostatak sume je dužan da uplati najkasnije 30 dana pred polazak.U slučaju da zakupac ne uplati iznos od 70% u dogovoreno vreme rezervacija se otkazuje i zakupodavac zadržava avans. Ukoliko zakupac otkaže rezervaciju 30 ili manje dana pred put zakupodavac zadržava pun iznos iznajmljivanja od 100%. U slučaju rezervacije u sezoni zakupac je dužan da uplati pun iznos smeštaja najviše dva dana od rezervacije. "
+                ],
+                "icon": "fas fa-cash-register"
+            },
+            {
+                "title": "Pet friendly",
+                "text": [
+                    "Kućni ljubimci do 10kg su dozvoljeni bez finansijske nadoknade. Ljubimci koji su teži od 10kg su zabranjeni."
+                ],
+                "icon": "fas fa-dog"
+            },
+            {
+                "title": "Parking",
+                "text": [
+                    "Svaki apartman poseduje po jedno parking mesto koje je besplatno."
+                ],
+                "icon": "fas fa-car"
+            }
+        ]
+    }
+}
